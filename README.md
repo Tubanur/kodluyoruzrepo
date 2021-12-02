@@ -28,6 +28,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ***Tuğbanur Büte***
 
+*Regards*
+
 
 | Ürün numarası| Ürün açıklaması|
 | :----------- | -------------: |
